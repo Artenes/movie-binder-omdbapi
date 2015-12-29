@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movie Binder</string>
+
+    <string name="actTitleMovieResolution">Selecione um dos filmes</string>
+
+    <string name="strNoMoviesFound">Nenhum filme foi encontrado!</string>
+
+    <string name="strFetchingMovieInfo">Obtendo informações do filme</string>
+    <string name="strOk" translatable="false">OK</string>
+
+    <string name="strMovieNotFound">Não encontramos o filme que você quer. Você digitou o nome do filme direitinho?</string>
+
+    <string name="strErrorMessage">Alguma coisa deu errada... Volte mais tarde para ver se tá tudo funcionando.</string>
+
+    <string name="strMovieAlreadyExists">Opa! Esse filme já está na sua lista. Tente lembrar um outro filme legal que você viu.</string>
+
+    <string name="strMovieAdded">foi adicionado para sua coleção!</string>
+
+    <string name="strWellDone">Muito bem!</string>
+
+    <string name="strOhNo">Essa não!</string>
+
+    <string name="txvTextNotAvailable">Não disponível</string>
+
+    <string name="strConnectionError">Não conseguimos pegar as informações do seu filme. Tem certeza que está conectado na internet?</string>
+
+    
+</resources>
