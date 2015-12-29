@@ -4,8 +4,8 @@ A simple Android application to register your favourite movies in your mobile!
 
 <table>
 	<tr>
-		<td>![Main screen](screenshots/screen01.png)</td>
-		<td>![Choose a movie](screenshots/screen02.png)</td>
+		<td><img src="screenshots/screen01.png"/></td>
+		<td><img src="screenshots/screen02.png"/></td>
 	</tr>	
 </table>
 
